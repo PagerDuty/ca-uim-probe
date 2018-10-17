@@ -5,7 +5,7 @@ PagerDuty UIM Gateway Probe
 # Change Log
 
 ## 2018-09 - version 1.020
-- Upgrate to PagerDuty REST API V2 using JRE 1.8
+- Upgraded to PagerDuty REST API V2 using JRE 1.8
 - Support Incident allerts grouping
 
 ## 2016-11 - version 1.018
